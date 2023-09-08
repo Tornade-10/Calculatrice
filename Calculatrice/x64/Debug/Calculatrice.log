@@ -1,0 +1,3 @@
+﻿  Calculatrice.cpp
+C:\Users\maxen\source\repos\Calculatrice\Calculatrice\Calculatrice.cpp(8,1): warning C4326: le type de retour de 'main' doit être 'int' au lieu de 'void'
+  Calculatrice.vcxproj -> C:\Users\maxen\source\repos\Calculatrice\x64\Debug\Calculatrice.exe
